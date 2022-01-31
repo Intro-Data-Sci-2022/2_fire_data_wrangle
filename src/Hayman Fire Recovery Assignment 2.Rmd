@@ -21,7 +21,7 @@ knitr::opts_knit$set(root.dir='..')
 ```{r dataread, warning=F,message=F}
 ####-----Reading in Data and Stacking it ----- ####
 #Reading in files
-files <- list.files('data',full.names=T)
+files <- list.files('../data',full.names=T)
 
 
 #Read in individual data files
