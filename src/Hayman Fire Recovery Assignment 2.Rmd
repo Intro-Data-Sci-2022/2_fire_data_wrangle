@@ -85,3 +85,11 @@ What month is the greenest month on average?
 What month is the snowiest on average?
 
 
+## Bonus Question: Redo all problems with `spread` and `gather` using modern tidyverse syntax. 
+
+
+## Bonus Question: Use Climage Engine to pull the same data for the assignment, but updated with 2020/2021 data.
+
+
+
+
